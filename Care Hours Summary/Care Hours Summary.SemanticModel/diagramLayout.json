@@ -1,0 +1,125 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1038.5714285714287,
+            "y": 0
+          },
+          "nodeIndex": "Fact - Care Hires Data",
+          "nodeLineageTag": "414f0fec-5f37-45f8-99cf-618a139465dd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 199.10714285714295,
+            "y": 43.999999999999943
+          },
+          "nodeIndex": "Fact - Rota",
+          "nodeLineageTag": "9518420b-ec27-42d1-97aa-9701a4da6692",
+          "size": {
+            "height": 200,
+            "width": 272.75
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1367,
+            "y": 0
+          },
+          "nodeIndex": "Measures_Table",
+          "nodeLineageTag": "a12f9442-8604-41af-b348-05fdfd18682b",
+          "size": {
+            "height": 231,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 683.21428571428578,
+            "y": 0
+          },
+          "nodeIndex": "Dim - Date",
+          "nodeLineageTag": "3df4bec7-dd0f-4b1a-bf26-09e51837e1ed",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1027.9642857142858,
+            "y": 674.39285714285711
+          },
+          "nodeIndex": "Dim - Site Master",
+          "nodeLineageTag": "d4e8ee18-5b58-43bb-9919-d48159c8f73d",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 454.07142857142867,
+            "y": 383.19642857142861
+          },
+          "nodeIndex": "Fact - Timesheet-updated",
+          "nodeLineageTag": "797df19d-d676-4ec2-983e-1d88aaf81344",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1536.7857142857142,
+            "y": 373.19642857142856
+          },
+          "nodeIndex": "Table_Monthly_Total_Hours",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1621.6785714285713,
+            "y": 421.19642857142856
+          },
+          "nodeIndex": "Data_Source",
+          "nodeLineageTag": "0437cd16-9a96-4299-a498-13f9c1d7d62e",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 70,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": true,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
